@@ -1,0 +1,13 @@
+com\neo4j\data\objects\ObjectProvider.class
+com\neo4j\data\binding\Neo4JSessionFactory.class
+com\neo4j\data\objects\software\persistence\Subnet.class
+com\neo4j\data\objects\SWStackProvider.class
+com\neo4j\data\objects\software\ComponentCombination.class
+com\neo4j\data\objects\ObjectProviderService.class
+com\neo4j\data\objects\software\persistence\Group.class
+com\neo4j\data\Neo4JConnector.class
+com\neo4j\data\objects\ComponentProvider.class
+com\neo4j\data\objects\software\persistence\SWStack.class
+com\neo4j\data\objects\software\persistence\Component.class
+com\neo4j\data\objects\software\persistence\SubnetAssociation.class
+com\neo4j\data\objects\ObjectFactory.class

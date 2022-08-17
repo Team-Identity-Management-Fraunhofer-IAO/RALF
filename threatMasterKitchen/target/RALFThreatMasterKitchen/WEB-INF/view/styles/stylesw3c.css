@@ -1,0 +1,54 @@
+*{
+	font-family: sans-serif;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
+div#login-container{
+	position: absolute;
+	left: 50%;
+	top: 25%;
+	margin-left: -297px;
+	margin-top: -145px;
+	width: 575px;	
+	height: 365px;
+	padding: 9px;
+}
+
+div#login-container-header h1{
+	font-weight: lighter;
+	font-size: 10pt;
+	margin-left: 163px;
+}
+
+div#login-container-body{
+	margin-left: 403px;
+	font-size: 11pt; 	
+}
+
+div#login-container-body label{
+	display: block;
+	float: left;
+	width: 69px;
+	margin-top: 0.67em;
+}
+
+div#login-container-body input#usrInput,
+div#login-container-body input#pwInput{
+	display: block;
+	float: left;
+	width: 103px;
+	margin-top: 0.67em;
+}
+
+div#login-container-body input#loginInput{
+	float: right;
+	margin-top: 0.67em;
+}
+
+img#ralf_logo{
+	width: 575px;	
+}
